@@ -1,0 +1,6 @@
+{
+  "name": "مين فاتح دلوقتي؟ - دليل الفيوم الليلي",
+  "description": "دليل تفاعلي متجاوب لمعرفة الصيدليات والمحلات والعيادات ومراكز الصيانة المفتوحة الآن في محافظة الفيوم ومراكزها مع مساعد طوارئ ذكي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
